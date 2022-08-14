@@ -1,0 +1,21 @@
+new
+cpu
+cpu
+cpu
+new
+cpu
+cpu
+cpu
+cpu
+wait 1
+cpu
+cpu
+event 1
+cpu
+cpu
+done
+cpu
+cpu
+cpu
+cpu
+exit

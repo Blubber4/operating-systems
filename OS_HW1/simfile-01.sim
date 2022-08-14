@@ -1,0 +1,31 @@
+enqueue 5
+enqueue 7
+push blooper
+push rookie
+dequeue
+push demerits
+pop
+enqueue 3
+enqueue 8
+push showplace
+enqueue 9
+dequeue
+pop
+dequeue
+push palmetto
+push zebra
+pop
+push collapse
+dequeue
+dequeue
+dequeue
+pop
+pop
+pop
+pop
+pop
+enqueue 2
+enqueue 4
+push penguins
+push sleeping
+exit

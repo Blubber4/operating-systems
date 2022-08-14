@@ -1,0 +1,96 @@
+new
+cpu
+cpu
+cpu
+new
+new
+new
+cpu
+cpu
+cpu
+cpu
+wait 1
+cpu
+wait 1
+cpu
+cpu
+wait 1
+cpu
+new
+new
+cpu
+cpu
+cpu
+event 1
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+new
+new
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+wait 1
+cpu
+cpu
+wait 2
+cpu
+cpu
+cpu
+wait 3
+cpu
+cpu
+event 2
+cpu
+cpu
+cpu
+cpu
+wait 2
+cpu
+cpu
+cpu
+event 1
+cpu
+cpu
+event 3
+cpu
+cpu
+cpu
+cpu
+cpu
+done
+cpu
+cpu
+cpu
+cpu
+done
+event 2
+cpu
+cpu
+cpu
+wait 1
+cpu
+cpu
+cpu
+cpu
+cpu
+done
+cpu
+done
+event 1
+cpu
+cpu
+done
+cpu
+cpu
+exit
+

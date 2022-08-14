@@ -1,0 +1,73 @@
+new
+new
+cpu
+cpu
+cpu
+cpu
+done
+new
+cpu
+cpu
+cpu
+cpu
+wait 1
+cpu
+done
+cpu
+wait 1
+cpu
+cpu
+new
+new
+cpu
+cpu
+event 1
+done
+cpu
+cpu
+cpu
+cpu
+done
+cpu
+cpu
+done
+cpu
+cpu
+new
+new
+cpu
+cpu
+wait 3
+cpu
+done
+new
+new
+new
+cpu
+wait 4
+cpu
+event 3
+cpu
+done
+new
+cpu
+cpu
+cpu
+event 4
+cpu
+cpu
+cpu
+done
+cpu
+cpu
+cpu
+cpu
+cpu
+cpu
+done
+cpu
+cpu
+done
+cpu
+exit
+
